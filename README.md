@@ -18,6 +18,9 @@ Ce projet est composé des trois modules suivants. Chaque module dispose de son 
 
 * 📁 **module-3 (Split Payment)**
     * Ajoute la possibilité d'enregistrer un seul règlement client en le répartissant sur deux comptes bancaires distincts, simplifiant une procédure auparavant manuelle.
+    * 
+* 📁 **modè1e de PV d'Intervention**
+    * Permet de creer des pv d'intervention personnalisé suivant un modèle personalisé.
 
 ## Technologies Utilisées
 
