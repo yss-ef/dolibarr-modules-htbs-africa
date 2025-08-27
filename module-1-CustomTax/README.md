@@ -2,7 +2,7 @@
 
 ## 1. Vue d'ensemble
 
-Le module **CustomTax** est une extension pour l'ERP Dolibarr conçue pour offrir plus de flexibilité dans la gestion des libellés de taxe sur les factures. Il permet de personnaliser le nom de la taxe (par exemple, "TVA", "VAT", "GST", "Sales Tax") directement sur chaque facture, ce qui est partic-ulièrement utile pour les entreprises travaillant avec une clientèle internationale.
+Le module **CustomTax** est une extension pour l'ERP Dolibarr conçue pour offrir plus de flexibilité dans la gestion des libellés de taxe sur les factures. Il permet de personnaliser le nom de la taxe (par exemple, "TVA", "VAT", "GST", "Sales Tax") directement sur chaque facture, ce qui est particulièrement utile pour les entreprises travaillant avec une clientèle internationale.
 
 Ce module résout le problème des libellés de taxe fixes en ajoutant un champ personnalisé sur les factures et en utilisant un modèle de document ODT pour afficher dynamiquement le nom de taxe choisi.
 
