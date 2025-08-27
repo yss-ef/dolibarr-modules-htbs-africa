@@ -10,12 +10,10 @@ Par défaut, Dolibarr impose qu'un paiement soit associé à un unique compte ba
 
 ## 2. Installation
 
-1.  Téléchargez l'archive `.zip` du module.
-2.  Décompressez l'archive.
-3.  Copiez le dossier du module (par exemple, `splitpayment`) dans le répertoire `<racine_dolibarr>/htdocs/custom/`.
-4.  Connectez-vous à votre instance Dolibarr avec un compte administrateur.
-5.  Allez dans **Accueil -> Configuration -> Modules/Applications**.
-6.  Trouvez le module **Split Payment** dans la liste et cliquez sur le bouton "Activer".
+1.  Copiez le dossier du module `splitpayment` dans le répertoire `<racine_dolibarr>/htdocs/custom/`.
+2.  Connectez-vous à votre instance Dolibarr avec un compte administrateur.
+3.  Allez dans **Accueil -> Configuration -> Modules/Applications**.
+4.  Trouvez le module **Split Payment** dans la liste et cliquez sur le bouton "Activer".
 
 ---
 
