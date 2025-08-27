@@ -10,7 +10,7 @@ Ce module résout le problème des libellés de taxe fixes en ajoutant un champ 
 
 ## 2. Installation
 
-1.  Copiez le dossier du module (par exemple, `customtax`) dans le répertoire `<racine_dolibarr>/htdocs/custom/`.
+1.  Copiez le dossier du module `customtax` dans le répertoire `<racine_dolibarr>/htdocs/custom/`.
 2.  Connectez-vous à votre instance Dolibarr avec un compte administrateur.
 3.  Allez dans **Accueil -> Configuration -> Modules/Applications**.
 4.  Trouvez le module **CustomTax** dans la liste et cliquez sur le bouton "Activer".
