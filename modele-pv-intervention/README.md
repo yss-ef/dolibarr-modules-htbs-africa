@@ -4,15 +4,7 @@
 
 Le modèle PV Intervention Personnalisé est un document PDF avancé pour l'ERP/CRM Dolibarr, conçu pour générer des procès-verbaux (PV) d'intervention sur mesure.
 
-Il remplace les modèles standards par un design professionnel et ajoute des fonctionnalités intelligentes pour automatiser la saisie d'informations. Il permet notamment :
-
-✅ L'affichage des logos de votre société et de votre client.
-
-✅ Le calcul automatique de la date, de l'heure de début et de l'heure de fin à partir des tâches saisies.
-
-✅ L'utilisation de champs personnalisés (Intervenant, Objet, Lieu, etc.) pour une flexibilité maximale.
-
-✅ L'affichage détaillé de chaque tâche avec sa date et sa durée.
+Il remplace les modèles standards par un design professionnel et ajoute des fonctionnalités intelligentes pour automatiser la saisie d'informations.
 
 Ce modèle résout le problème des documents génériques en offrant un PV qui correspond à un besoin métier spécifique et qui s'adapte dynamiquement aux données de l'intervention.
 
@@ -26,7 +18,7 @@ Ce modèle résout le problème des documents génériques en offrant un PV qui 
 
 ---
 
-## 3. ⚙️ Configuration (Étape Manuelle Obligatoire)
+## 3. Configuration (Étape Manuelle Obligatoire)
 
 _Important_ : Pour que le modèle soit fonctionnel, une configuration manuelle des champs personnalisés est indispensable. Cette étape n'est à réaliser qu'une seule fois.
 
