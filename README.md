@@ -2,7 +2,7 @@
 
 ## Contexte du Projet
 
-Ce dépôt contient une collection de trois modules personnalisés développés pour l'ERP Dolibarr. Ce projet a été réalisé dans le cadre d'un stage d'ingénieur logiciel chez **HTBS Africa**, une société spécialisée en cybersécurité.
+Ce dépôt contient une collection de trois modules personnalisés ainsi qu'un modèle de document pérsonalisé développés pour l'ERP Dolibarr. Ce projet a été réalisé dans le cadre d'un stage d'ingénieur logiciel chez **HTBS Africa**, une société spécialisée en cybersécurité.
 
 L'objectif était de répondre à des besoins métier spécifiques non couverts par les fonctionnalités standards de Dolibarr, afin d'améliorer l'efficacité des processus internes.
 
